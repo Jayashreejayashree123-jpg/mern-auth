@@ -1,0 +1,32 @@
+MERN Authentication System
+
+## 📌 Project Description
+This project is a MERN stack authentication system built using Node.js, Express.js, and MySQL. It provides secure user registration, login, JWT-based authentication, and dashboard CRUD operations.
+
+---
+
+## 🚀 Features
+
+- User Registration with password hashing
+- User Login with JWT authentication
+- Forgot & Reset Password functionality
+- Protected Routes using Middleware
+- CRUD operations for items
+- Dashboard statistics API
+
+---
+
+## 🛠️ Technologies Used
+
+- Node.js
+- Express.js
+- MySQL
+- JWT (jsonwebtoken)
+- bcryptjs
+- dotenv
+- cors
+- nodemailer
+
+---
+
+## 📂 Project Structure
